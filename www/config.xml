@@ -3,18 +3,12 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.fleck.cards"
-        version   = "1.0.0">
+        id        = "com.fleckmesh.mobile"
+        version   = "0.0.1">
 
-    <name>Fleck Cards</name>
-
-    <description>
-        Fleck Cards and application that helps backup your data on the cloud for onward manipulation.
-    </description>
-
-    <author href="http://phonegap.com" email="support@phonegap.com">
-        PhoneGap Team
-    </author>
+   <name>Fleck Mobile</name>
+  <description>Fleck Mobile connects you to Fleckmesh Apps.</description>
+  <author href="http://fleckmesh.com" email="support@fleckmesh.com">David Inyang-Etoh</author>
 
     <!-- Define the main entry-point to the application -->
     <content src="index.html" />
